@@ -1,0 +1,137 @@
+bonito(a)
+feio(a)
+magro(a)
+gordo(a)
+alto(a)
+baixo(a)
+medio(a)
+normal
+belo(a)
+lindo(a)
+legal
+nao legal
+besta
+burro(a)
+inteligente
+fedorento(a)
+cheiroso(a)
+talentoso(a)
+ignorante
+doente pra burro
+marginal
+ladrao(a)
+politico(a)
+bom(a)
+ruim
+elegante
+rosa que se cheire
+vaca
+galinha
+viado
+hetero
+homo
+afetivo(a)
+delinquente
+quente
+frio(a)
+sem sentimentos
+gay
+sem nocao
+essencial
+necessario(a)
+requerido(a)
+atencioso(a)
+medroso(a)
+chorao(a)
+sorridente
+feliz
+triste
+envergonhado(a)
+egoista
+maligno(a)
+do bem
+do mau
+benigno(a)
+engracado(a)
+leso(a)
+feio pra burro(a)
+medico(a)
+fuzileiro(a)
+doutor(a)
+piloto(a)
+comandante
+arquiteto(a)
+diretor(a)
+aluno(a)
+padeiro(a)
+boleiro(a)
+goleiro(a)
+jogador(a) de futebol
+jogador(a) de golf
+jogador(a)
+mineiro(a)
+brasileiro(a)
+americano(a)
+italiano(a)
+jumento(a)
+iraniano(a)
+homem bomba
+funkeiro(a)
+pagodeiro(a)
+angelical
+guri(a)
+antigo(a)
+velho(a)
+novo(a)
+dentuco(a)
+melequento(a)
+seboso(a)
+ardido(a)
+ingles(a)
+sapateiro(a)
+merdinha
+intruso(a)
+invasor(a)
+melhor impossivel
+impressionante
+demais
+vigarista
+enganador(a)
+dentista
+uma pedra no meu sapato
+mendigo(a)
+animal
+lindao(a)
+boiola
+papagaio falante
+colirio para os olhos
+magnifico(a)
+unico(a)
+simples
+complexo(a)
+molhado(a)
+seco(a)
+sem dor
+frosquito(a)
+preto(a)
+branco(a)
+rosa
+amarelo(a)
+um camarao
+queimado(a)
+gasguito(a)
+roco(a)
+quadrado(a)
+redondo(a)
+maconheiro(a)
+fumante
+analfabeto(a)
+barraqueiro(a)
+negocado(a)
+cabeludo(a)
+suvacao(a)
+fugitivo(a)
+fumage
+partage
+cobra
+sacana
